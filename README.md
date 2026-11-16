@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Nael300/Nael300/blob/main/A%20%C2%B7%20Terminal%20n%C3%A9on%401x.png" width="100%" alt="Bannière profil">
+</p>
+
 Naël Legagneux--Bequet
 
 Je suis étudiant en première année d'informatique chez Coda. Dans la vie, je m'intéresse à beaucoup de domaines différents, que ce soit la musique, la tech ou le sport  et particulièrement le bowling qui est une passion transmise par mon père et qui aujourd'hui occupe une place importante dans ma vie.
@@ -19,4 +23,3 @@ Si vous avez des opportunités d'alternance, des conseils à partager ou simplem
 * Email : nael9791@gmail.com
 * LinkedIn :
 * Portfolio :
-![Ma bannière](https://github.com/Nael300/Nael300/blob/main/A%20%C2%B7%20Terminal%20n%C3%A9on%401x.png)
