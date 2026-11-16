@@ -19,4 +19,4 @@ Si vous avez des opportunités d'alternance, des conseils à partager ou simplem
 * Email : nael9791@gmail.com
 * LinkedIn :
 * Portfolio :
-![Ma bannière](lien_de_ton_image.png)
+![Ma bannière](https://github.com/Nael300/Nael300/blob/main/A%20%C2%B7%20Terminal%20n%C3%A9on%401x.png)
