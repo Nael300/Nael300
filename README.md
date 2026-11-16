@@ -23,3 +23,9 @@ Si vous avez des opportunités d'alternance, des conseils à partager ou simplem
 * Email : nael9791@gmail.com
 * LinkedIn :
 * Portfolio :
+
+  <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
