@@ -21,7 +21,7 @@ Ce que je travaille en ce moment
 Me contacter
 Si vous avez des opportunités d'alternance, des conseils à partager ou simplement envie d'échanger :
 * Email : nael9791@gmail.com
-* LinkedIn : www.linkedin.com/in/naël-legagneux-bequet-897084450
+* LinkedIn : www.linkedin.com/in/naël-legagneux-bequet
 * Portfolio :
 
   <p>
