@@ -22,7 +22,6 @@ Me contacter
 Si vous avez des opportunités d'alternance, des conseils à partager ou simplement envie d'échanger :
 * Email : nael9791@gmail.com
 * LinkedIn : www.linkedin.com/in/naël-legagneux-bequet
-* Portfolio :
 
   <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
